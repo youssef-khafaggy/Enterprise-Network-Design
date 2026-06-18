@@ -25,6 +25,3 @@ Enterprise network designed and implemented using Cisco Packet Tracer.
 - PacketTracer Folder
 - Documentation Folder
 - Screenshots Folder
-
-## Author
-Youssef Araby

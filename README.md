@@ -12,6 +12,8 @@ Enterprise network designed and implemented using Cisco Packet Tracer.
 - Site-to-Site VPN
 - NAT/PAT
 - Extended ACLs
+- Layer 3 Etherchannel
+- hsrp protocol
 - DHCP
 - AAA Authentication
 - Port Security
